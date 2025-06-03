@@ -30,7 +30,9 @@ A planilha deve conter, pelo menos, as seguintes colunas (os nomes podem ser aju
 - **NEGOCIADOR**: Nome do negociador responsável pela proposta
 - **STATUS**: Situação da proposta (ex: Aprovada, Recusada)
 - **DATA DO ENVIO DA PROPOSTA**: Data de envio da proposta
+
 (Por questões de segurança a planilha nao pode ser compartilhada por conter dados sigilosos)
+
 ## Dependências
 
 - streamlit==1.32.0
